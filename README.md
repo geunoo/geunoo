@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=GeunWoo%&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=gilgeunwoo%&fontSize=60)
   <p align="center">
  <a href="https://github.com/jikwan0327/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=gilgeunwoo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/></a></p>
@@ -8,8 +8,8 @@
 ## 📚learning📚
 
 
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)](github.com/gilgeunwoo)
-[![Java](https://img.shields.io/badge/Java-1572B6?style=flat-square&logo=Java&logoColor=white)](github.com/gilgeunwoo)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)](github.com/gilgeunwoo/spring-study)
+[![Java](https://img.shields.io/badge/Java-1572B6?style=flat-square&logo=Java&logoColor=white)](github.com/gilgeunwoo/spring-study)
 <br><br>
 ## 🔨tool🔨
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/>
