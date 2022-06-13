@@ -1,14 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=gilgeunwoo%&fontSize=60)
   <p align="center">
- <a href="https://github.com/jikwan0327/github-readme-stats">
+ <a href="https://github.com/gilgeunwoo/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=gilgeunwoo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/></a></p>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilgeunwoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
 
 <div align=center>
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilgeunwoo&layout=compact&theme=tokyonight)
+  
 ## 📚learning📚
 
 
