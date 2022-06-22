@@ -11,8 +11,7 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilgeunwoo&layout=compact&theme=tokyonight)
   
 ## 📚learning📚
-
-
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)](github.com/gilgeunwoo/spring-study)
 [![Java](https://img.shields.io/badge/Java-1572B6?style=flat-square&logo=Java&logoColor=white)](github.com/gilgeunwoo/spring-study)
 <br><br>
