@@ -1,1 +1,1 @@
-![nopainnogain](https://user-images.githubusercontent.com/103028187/211250807-14f6a9c4-4c4b-46ad-b4bf-4c0448cc430c.png)
+![37-372429_no-pain-no-gain-graphic-design](https://user-images.githubusercontent.com/103028187/224208394-c8b6a5eb-5e14-4ebf-a57c-83dd861b9cad.jpg)
